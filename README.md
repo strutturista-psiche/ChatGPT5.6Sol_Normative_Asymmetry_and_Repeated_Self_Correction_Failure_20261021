@@ -16,6 +16,8 @@ This repository preserves a dialogue record documenting inconsistent application
 
 The PDFs contain chronological screenshots of the dialogue. Earlier exchanges are excluded from the published record.
 
+This published record begins partway through the original conversation.
+
 ## Observed Issues
 
 1. Applying standards of personal conduct to an assessment of research consistency.
